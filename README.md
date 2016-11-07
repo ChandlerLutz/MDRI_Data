@@ -9,6 +9,8 @@ Urban Economics* 96 (2016): 91-111.
 
 See http://dx.doi.org/10.1016/j.jue.2016.08.004
 
+See https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2816207 
+
 See http://chandlerlutz.com
 
 # Data Description
