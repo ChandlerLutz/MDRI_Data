@@ -4,6 +4,8 @@
 
 ### An interactive data app for the MDRI can be found [here](XXX)
 
+![US MDRI Plot](Data/mdri_us.png)
+
 The Mortgage Default Risk Index is from Chauvet, Gabriel, and Lutz
 (2016):
 
