@@ -1,13 +1,14 @@
 # Data: The Mortgage Default Risk Index (MDRI)
 
-## Mortgage Default Risk (the MDRI) has decreased 11.12% over the last 12 months.
-
-### An interactive data app for the MDRI can be found [here](XXX)
+### Mortgage Default Risk (the MDRI) has decreased 11.12% over the last 12 months:
 
 ![US MDRI Plot](Data/mdri_us.png)
 
+### An interactive data app for the MDRI can be found [here](XXX). Plot of the most recent US Data
+
 The Mortgage Default Risk Index is from Chauvet, Gabriel, and Lutz
-(2016):
+(2016). The data in the plot are not seasonally and the blue bar in the plot is
+a bear market in the S&P500. See below for other available MDRI data.
 
 Chauvet, Marcelle, Stuart Gabriel, and Chandler Lutz. "Mortgage"
 default risk: New evidence from internet search queries." *Journal of
