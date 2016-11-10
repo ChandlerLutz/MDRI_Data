@@ -1,4 +1,4 @@
-# Data: The Mortgage Default Risk Index (MDRI)
+# The Mortgage Default Risk Index (MDRI)
 
 ### Mortgage Default Risk (the MDRI) has decreased 11.12% over the last 12 months:
 
