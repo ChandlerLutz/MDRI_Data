@@ -21,9 +21,9 @@ measures of mortgage default risk.
 
 ### Download Instructions
 
-* You can downlaod all of the data, including real time and daily
-  data, using the download link above.
-* A CSV file for the most recent monthly US data can be found [here](XXX).
-* A CSV file for the most recent state-level data can be found [here](XXX).
-* A CSV file for the most recent city-level data can be found [here](XXX).
+* You can downlaod all of the data, including real time, daily,
+  and seasonally adjusted data, using the download link above.
+* A CSV file for the most recent monthly US data can be found [here](https://raw.githubusercontent.com/ChandlerLutz/MDRI_Data/master/Data/MDRI_US_nsa.csv).
+* A CSV file for the most recent state-level data can be found [here](https://raw.githubusercontent.com/ChandlerLutz/MDRI_Data/master/Data/MDRI_States_nsa.csv).
+* A CSV file for the most recent city-level data can be found [here](https://raw.githubusercontent.com/ChandlerLutz/MDRI_Data/master/Data/MDRI_Cities_nsa.csv).
 
