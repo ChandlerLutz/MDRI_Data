@@ -12,9 +12,7 @@ a bear market in the S&P500. See below for other available MDRI datasets.
 
 Chauvet, Marcelle, Stuart Gabriel, and Chandler Lutz. "Mortgage
 default risk: New evidence from internet search queries." *Journal of
-Urban Economics* 96 (2016): 91-111.http://dx.doi.org/10.1016/j.jue.2016.08.004
-
-[SSRN Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2816207)
+Urban Economics* 96 (2016): 91-111. [DOI Link](http://dx.doi.org/10.1016/j.jue.2016.08.004).[SSRN Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2816207).
 
 ### Data Description
 
