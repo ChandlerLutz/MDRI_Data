@@ -1,6 +1,6 @@
 # The Mortgage Default Risk Index (MDRI)
 
-### US Mortgage Default Risk (the MDRI) has increased 6.63% over the last 12 months:
+### US Mortgage Default Risk (the MDRI) has increased 11.78% over the last 12 months:
 
 ![US MDRI Plot](Data/mdri_us.png)
 
