@@ -15,6 +15,7 @@ default risk: New evidence from internet search queries." *Journal of
 Urban Economics* 96 (2016): 91-111. [DOI Link](http://dx.doi.org/10.1016/j.jue.2016.08.004). [SSRN Paper Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2816207).
 
 ### Data Description
+---
 
 The Mortgage Default Risk Index (MDRI) captures household mortgage
 default risk by aggregating internet search queries such as
@@ -23,6 +24,7 @@ default risk by aggregating internet search queries such as
 measures of mortgage default risk.
 
 ### Download Instructions
+---
 
 * You can downlaod all of the data, including real time, daily,
   and seasonally adjusted data, using the download link above.
@@ -30,3 +32,7 @@ measures of mortgage default risk.
 * A CSV file for the most recent state-level data can be found [here](Data/MDRI_States_nsa.csv).
 * A CSV file for the most recent city-level data can be found [here](Data/MDRI_Cities_nsa.csv).
 
+### License 
+---
+
+GPL-2
